@@ -1,0 +1,14 @@
+{
+  "titleid": "PPSA99023",
+  "name": "reSOT - The Sands of Time",
+  "kind": "game",
+  "category": "console-ports",
+  "description": "Prince of Persia: The Sands of Time, built from the reSOT recompilation of the Xbox game. Needs your own Xbox retail disc files.",
+  "license": "MIT AND GPL-3.0-or-later AND LGPL-2.1-or-later",
+  "author": "bystritskiy",
+  "version": "01.003.004",
+  "source_repo": "https://github.com/bystritskiy/rePOP-ps5",
+  "artifact_url": "https://github.com/bystritskiy/rePOP-ps5/releases/download/01.003.004/PPSA99023-01.003.004.zip",
+  "sha256": "f30529a1fe69c1d52e536dda76e62a94d65588a9e859650b987c30bd2078eb4f",
+  "icon_url": "https://raw.githubusercontent.com/bystritskiy/rePOP-ps5/01.003.004/port/ps5/sce_sys/icon0.png"
+}
