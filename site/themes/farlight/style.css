@@ -480,6 +480,10 @@ h2 .translated__toggle, .article__lead .translated__toggle { display: inline; ma
 .foot__inner { max-width: 1920px; margin: 0 auto; padding: calc(40 * var(--u)) var(--margin) calc(54 * var(--u)); }
 .foot__nav { display: flex; flex-wrap: wrap; gap: 8px calc(34 * var(--u)); font: 600 calc(19 * var(--u))/1.4 var(--body); color: rgba(244, 239, 230, 0.7); }
 .foot__nav a:hover { color: var(--accent); }
+.foot__sponsor { display: flex; flex-wrap: wrap; align-items: center; gap: 8px calc(34 * var(--u)); margin-bottom: calc(22 * var(--u)); font: 600 calc(19 * var(--u))/1.4 var(--body); color: rgba(244, 239, 230, 0.7); }
+.foot__sponsor a { display: inline-flex; align-items: center; gap: calc(10 * var(--u)); }
+.foot__sponsor a:hover { color: var(--accent); }
+.foot__logo { width: calc(28 * var(--u)); height: calc(28 * var(--u)); flex: none; }
 .foot__fine { max-width: calc(1320 * var(--u)); margin: calc(22 * var(--u)) 0 0; font-size: calc(17 * var(--u)); line-height: 1.6; color: rgba(244, 239, 230, 0.46); }
 .foot__fine a { color: rgba(244, 239, 230, 0.7); text-decoration: underline; text-underline-offset: 3px; }
 .foot__fine a:hover { color: var(--accent); }
